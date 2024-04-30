@@ -1,0 +1,1 @@
+var json_batas_prov_jateng_diy_bako_june2004_plgon_2 = {"type":"FeatureCollection","name":"batas_prov_jateng_diy_bako_june2004_plgon_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
